@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 <div align="center">
-    <img src="../../.resource/bug_report.png">
+    <img src="https://user-images.githubusercontent.com/74761380/225863704-b8d2c27a-fc48-4aea-9756-98b52e3a7f19.png">
 </div>
 
 <br>

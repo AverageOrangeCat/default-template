@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 <div align="center">
-    <img src="../../.resource/feature_request.png">
+    <img src="https://user-images.githubusercontent.com/74761380/225864123-cea55602-cf6c-4f28-860d-b2dc68267521.png">
 </div>
 
 <br>
