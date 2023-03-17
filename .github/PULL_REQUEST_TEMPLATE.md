@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="../.resource/pull_request.png">
+    <img src="https://user-images.githubusercontent.com/74761380/225864286-381a59ba-6beb-4a1c-bd5a-3f5606969b50.png">
 </div>
 
 <br>
